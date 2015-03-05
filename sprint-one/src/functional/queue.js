@@ -18,7 +18,6 @@ var Queue = function(){
     var result = storage[first];
     delete storage[first];
     for (var k in storage){
-      console.log("I'm a key in the queue:" + k);
     }
     first++;
     return result;
