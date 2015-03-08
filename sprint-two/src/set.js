@@ -24,7 +24,7 @@ setPrototype.remove = function(item){
 };
 
 /*
- * Complexity: What is the time complexity of the above functions?
+ * Complexity: What is the time complexity of the above functions? 0(1) constant time
  */
 
 

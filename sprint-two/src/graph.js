@@ -85,7 +85,7 @@ var newGraph = new Graph();
 
 
 /*
- * Complexity: What is the time complexity of the above functions? 0(1)
+ * Complexity: What is the time complexity of the above functions? 0(1) / 0(n) - visiting each element in my code to remove edges and apply callback
  */
 
 
