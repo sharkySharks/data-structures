@@ -74,7 +74,6 @@ Graph.prototype.forEachNode = function(cb){
 	// call a function on each node
 	var nodes = this.nodes;
 	for (var key in nodes){
-
 		cb(key);
 	}
 
@@ -86,7 +85,7 @@ var newGraph = new Graph();
 
 
 /*
- * Complexity: What is the time complexity of the above functions?
+ * Complexity: What is the time complexity of the above functions? 0(1)
  */
 
 
